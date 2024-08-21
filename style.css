@@ -6,7 +6,7 @@
 }
 body{
     min-height: 100vh;
-    background: url(/pexels-pixabay-268533.jpg)center ;
+    background: url(./image/pexels-pixabay-268533.jpg)center ;
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
